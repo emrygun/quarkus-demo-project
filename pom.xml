@@ -12,6 +12,8 @@
 
     <modules>
         <module>restful-services</module>
+        <module>programming-model</module>
+        <module>packaging</module>
     </modules>
 
 </project>
